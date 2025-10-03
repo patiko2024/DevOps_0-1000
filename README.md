@@ -17,6 +17,8 @@ app/
 ________________________________________
 Usamos 
 Flask, un microframework web en Python
+
+________________________________________
 Resumen 
 1.	Python + Flask ejecutan una app que responde en el puerto 5000.
 2.	Se lee una variable de entorno (NOMBRE) definida en .env.
